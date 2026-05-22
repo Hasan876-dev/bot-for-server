@@ -8,7 +8,7 @@
   "server": {
     "ip": "guguds.aternos.me",
     "port": 62345,
-    "version": "26.1.2",
+    "version": "1.2.1",
     "try-creative": false
   },
   "position": {
